@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: 我们和我们心中的彼此
 author: Penn penna
 date: 2022-05-20 14:00:39
 tags:
@@ -17,7 +17,5 @@ tags:
 <!-- more -->
 
 ![](post-14/content.jpeg)
-
-我们和我们心中的彼此
 
 [^*]: LOFTER 文章 [【520icsk12h 14:00】](https://makooo544.lofter.com/post/30a76194_2b57b8275/)
